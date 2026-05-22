@@ -1,5 +1,5 @@
 
-🎯 Python Hangman Project
+🎯 Python Hangman Project:
 This project is a console-based Hangman Game created using Python for the CodeAlpha Internship Program.
 
 ✅ Project Highlights
